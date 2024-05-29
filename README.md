@@ -4,7 +4,7 @@
 
 
 # Home Page
-<img src = "https://raw.githubusercontent.com/vinita2003/Daily-News/master/homee.png" length = 330 width = 440>
+<img src = "https://raw.githubusercontent.com/vinita2003/Daily-News/master/homee.png">
 
 
 
