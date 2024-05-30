@@ -1,6 +1,12 @@
 
 <div align="center"><h1>Daily News</h1>
 The News component is a React class component that fetches and displays news articles from the News API. This component allows users to navigate through pages of news articles, displaying headlines from a specified category and country.
+Features
+Fetches News Articles: Retrieves top business headlines from India using the News API.
+Pagination: Allows users to navigate through pages of news articles with "Previous" and "Next" buttons.
+Dynamic Rendering: Displays the fetched news articles dynamically in a grid layout.
+Loading State Management: Manages and displays loading states while fetching data.
+Error Handling: Includes basic error handling for API requests.
 
 
 # Home Page
