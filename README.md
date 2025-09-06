@@ -1,6 +1,6 @@
 
 <div align="center"><h1>Daily News</h1>
-This project is a React application that fetches top business headlines from India using the News API. It allows users to navigate through pages of news articles with "Previous" and "Next" buttons. The news articles are dynamically rendered in a grid layout, and it includes loading states to manage and display while fetching data. Basic error handling for API requests is also implemented to enhance user experience.
+Developed a real-time web application using the MERN stack that allows riders to book cabs and drivers to accept rides, featuring real-time location tracking and ride request notifications with Socket.IO, an interactive map with Google Maps API/Leaflet to display nearby drivers and routes, authentication and role-based access using JWT and cookies, driver online/offline availability with auto-reconnect sockets, and efficient data management with MongoDB for ride history and active sessions
 
 # Home Page
 <img src = "https://raw.githubusercontent.com/vinita2003/Daily-News/master/Home%20Page%20-%20General%20Category.png">
@@ -24,3 +24,5 @@ This project is a React application that fetches top business headlines from Ind
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge)
+
